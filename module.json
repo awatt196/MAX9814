@@ -1,0 +1,21 @@
+{
+  "name": "max9814",
+  "version": "0.0.0",
+  "description": "MAX9814 microphone amplifier",
+  "keywords": [],
+  "author": "",
+  "homepage": "",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "dependencies": {
+    "mbed-drivers": "~0.11.1"
+  },
+  "repository": {
+    "url": "https://github.com/awatt196/max9814.git",
+    "type": "git"
+  }
+}
